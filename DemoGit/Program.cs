@@ -9,3 +9,6 @@ Console.WriteLine("Learning to merge from repo2");
 
 Console.WriteLine("This is my branch 2");
 Console.WriteLine("Made a localRepo1");
+
+Console.WriteLine("CHANGES FROM LAPTOP");
+
